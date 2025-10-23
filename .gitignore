@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE & system files
+.idea/
+.vscode/
+.DS_Store
+
+# Logs, data, and caches
+*.log
+*.csv
+*.json
+*.pickle
+*.pkl
+*.db
+*.sqlite
+.cache/
+*.ipynb_checkpoints/
+
+# Node or JS leftovers (if any)
+node_modules/
+
+# Models / embeddings / large artifacts
+*.npy
+*.pt
+*.bin
+*.h5
+
+# Ignore virtual environment
+faqApp/
